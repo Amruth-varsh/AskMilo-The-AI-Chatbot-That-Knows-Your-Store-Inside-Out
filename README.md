@@ -39,13 +39,11 @@ To interact with the chatbot, you need to have your OpenAI API key. Follow these
 - [Streamlit: How to deploy your app from your Github repository with Streamlit](https://medium.com/@alfredolhuissier/streamlit-how-to-deploy-your-ai-app-7a516548eb90)
 
 ## AI Chatbot Demo
-![image](https://github.com/user-attachments/assets/d2437d29-49f7-41dd-8535-898f1eef95a2)
-
-
+![img.png](images/AI-Chatbot.png)
+![img.png](images/box.png)
 
 ## AI Chatbot Dark Theme
-![image](https://github.com/user-attachments/assets/8fbd45e3-3ced-410a-a5a6-1de96b0ec6b4)
-
+![img.png](images/dark-theme.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
